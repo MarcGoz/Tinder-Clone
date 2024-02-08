@@ -74,14 +74,16 @@ h3 {
 }
 
 .logo {
-  border-radius: 40px;
-  width: 200px;
-  height: 200px;
+ 
+  width: ; /* Adjust the width as needed */
+  height: ; /* Adjust the height as needed */
   display: flex;
   justify-content: center;
   margin: 0 auto 16px;
   background: rgba(255, 255, 255, 0.1);
   align-items: center;
+  border-radius: 50%; /* Ensure the logo is circular */
+
 }
 
 button {
